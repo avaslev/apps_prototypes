@@ -1,0 +1,23 @@
+.updated-text {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: 10px 0;
+  font-size: 11px;
+  text-align: center;
+}
+
+.table-view-cell .icon {
+  color: #007aff;
+}
+
+#loading {
+  background-color: #1c7fc4;
+}
+#loading h1{
+  color: white;
+  font-family: 'Fira Sans' !important;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+}
